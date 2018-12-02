@@ -13,7 +13,7 @@ pip install -r requirements.txt # alternatively try pip3
 
 # Quickstart
 
-Run **bitly.py** with url or bitlink as argument.  
+Run **bitly.py** with url or bitlink as argument. Your .env file with enviroment variables should contain your bitly token.
 
 ```bash
 
